@@ -1,0 +1,61 @@
+.main-title {
+  font-size: 30pt;
+  color: red;
+  text-decoration: dashed underline;
+}
+
+.paragraf-uno {
+  color: brown;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.paragraf-dos {
+  color: darkorange;
+  font-weight: bolder;
+  font-size: larger;
+  border-style: dotted;
+  border-color: blue;
+}
+
+.michael-jakelson {
+  border-style: solid;
+  border-color: violet;
+  border-radius: 30px;
+  border-width: 2pt;
+}
+
+.secondary-title {
+  color: blue;
+  font-size: 130%;
+  text-decoration: wavy underline;
+}
+
+.paragraf-tres {
+  color: aquamarine;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 25pt;
+}
+
+.tablo {
+  border-style: dashed;
+  border-color: salmon;
+  color: green;
+  text-decoration-line: overline underline;
+}
+
+.listo {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: blueviolet;
+  text-indent: 20pt;
+  text-decoration-line: overline;
+}
+
+.rocket-man {
+  border-style: groove;
+  border-width: 7pt;
+  border-color: yellow;
+  width: 120%%;
+}
